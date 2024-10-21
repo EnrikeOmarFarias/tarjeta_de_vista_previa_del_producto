@@ -1,0 +1,5 @@
+@media (min-width: 1440px) {
+  .contenedor-secundario {
+    max-width: 80rem;
+  }
+}
